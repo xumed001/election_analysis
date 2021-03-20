@@ -13,7 +13,6 @@ Extracting Data from an election audit of a local congressional election.
 ## Summary
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
- <br/>
 - The candidates were:<br/>
      - Charles Casper Stockham.
      - Diana DeGette. 
