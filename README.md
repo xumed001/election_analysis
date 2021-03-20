@@ -13,13 +13,15 @@ Extracting Data from an election audit of a local congressional election.
 ## Summary
 The analysis of the election show that:
 - There were 369,711 votes cast in the election.
-- The candidates were:
-     Charles Casper Stockham
-     Diana DeGette
-     Raymon Anthony Doane
-- Their vote distribution:
-     Charles Casper Stockham received 23.0% of the vote with the vote count of 85,213.
-     Diana DeGette received  73.8% of the vote with the vote count of 272,892.
-     Raymon Anthony Doane received  3.1% of the total vote with the vote count of 11,606.
-- The winner of the election was: 
-     Diana DeGette receiving 73.8% of the total vote with the vote count of 272,892.
+- The candidates were:<br/>
+     Charles Casper Stockham.<br/> 
+     Diana DeGette.<br/> 
+     Raymon Anthony Doane.<br/> 
+- Their vote distribution:<br/>
+     Charles Casper Stockham received 23.0% of the vote with the vote count of 85,213.<br/> 
+     Diana DeGette received  73.8% of the vote with the vote count of 272,892. <br/>
+     Raymon Anthony Doane received  3.1% of the total vote with the vote count of 11,606. <br/>
+- The winner of the election was: <br/>
+     Diana DeGette receiving 73.8% of the total vote with the vote count of 272,892.<br/>
+## Challange Overview
+## Challange Summary
